@@ -3,7 +3,7 @@
  * Plugin Name: FraudChecker for WooCommerce
  * Description: Checks customer order history via FraudChecker.org API.
  * Plugin URI: https://fraudchecker.org
- * Author: FraudChecker.org (Md Rasel Khan)
+ * Author: FraudChecker.org
  * Author URI: https://github.com/immdraselkhan/fraudchecker-woocommerce
  * Version: 1.0
  */
